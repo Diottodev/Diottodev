@@ -1,11 +1,11 @@
 - 👋 Olá, eu sou Nicolas Diotto!!
-- 👀 Atualmente estudante de desenvolvimento web full stack
-- 🌱 Estudando React, Typescript
+- 👀 Atualmente estudante de desenvolvimento Web Full Stack na Growdev
+- 🌱 Estudando ReactJs, Typescript, Nodejs, ExpressJs, Postgres, Redis, HTML5, CSS3 e sempre buscando uma versão melhor de mim! 
 
 <div align="center">
   <a href="https://github.com/Diotto6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diotto6&show_icons=true&theme=onedarkpro&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diotto6&layout=compact&langs_count=7&theme=onedarkpro"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diotto6&show_icons=true&theme=ayu&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diotto6&layout=compact&langs_count=7&theme=ayu"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Diotto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
