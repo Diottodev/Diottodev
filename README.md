@@ -1,6 +1,10 @@
 - 👋 Olá, eu sou Nicolas Diotto!!
-- 👀 Atualmente estudante de desenvolvimento Web Full Stack na Growdev
-- 🌱 Estudando ReactJs, Typescript, Nodejs, ExpressJs, Postgres, Redis, HTML5, CSS3 e sempre buscando uma versão melhor de mim! 
+- 👀 Entusiasta por games e programação, um amante de animes!
+- 🌱 Atualmente Desenvolvedor full stack e sempre buscando uma versão melhor de mim! 
+
+- 👋 Hello, I'm Nicolas Diotto!!
+- 👀 Enthusiastic about games and programming, an anime lover!
+- 🌱 Currently full stack developer and always looking for a better version of me!
 
 <div align="center">
   <a href="https://github.com/Diotto6">
