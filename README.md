@@ -1,7 +1,7 @@
 
-- 👋 Hello, I'm Nicolas Diotto!!
-- 👀 Enthusiastic about games and programming, an anime lover!
-- 🌱 Currently full stack developer and always looking for a better version of me!
+👋 Hello, I'm Nicolas Diotto!
+👀 I'm enthusiastic about games and programming, and I love anime!
+🌱 Currently, I work as a full stack developer and I'm always striving to become a better version of myself!
 
 <div align="center">
   <a href="https://github.com/Diotto6">
