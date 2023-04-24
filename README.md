@@ -1,9 +1,14 @@
 
-👋 Hello, I'm Nicolas Diotto!
-👀 I'm enthusiastic about games and programming, and I love anime!
-🌱 Currently, I work as a full stack developer and I'm always striving to become a better version of myself!
+
+
 
 <div align="center">
+  <p>👋 Hello, I'm Nicolas Diotto!
+  </p>
+  <p>👀 I'm enthusiastic about games and programming, and I love anime!
+  </p>
+  <p>🌱 Currently, I work as a full stack developer and I'm always striving to become a better version of myself!
+  </p>
   <a href="https://github.com/Diotto6">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diotto6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diotto6&layout=compact&langs_count=7&theme=tokyonight"/>
