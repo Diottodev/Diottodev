@@ -1,10 +1,7 @@
-
-
-
-
 <div align="center">
   <p>👋 Hello, I'm Nicolas Diotto!
   </p>
+  <img src="./assets/banner.png" alt="banner github" />
   <p>👀 I'm enthusiastic about games and programming, and I love anime!
   </p>
   <p>🌱 Currently, I work as a full stack developer and I'm always striving to become a better version of myself!
@@ -29,4 +26,4 @@
   <h3> Contact-me </h3>
      <a href="https://www.linkedin.com/in/nicolas-diotto-741404218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/nicodiotto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </div>    
+  </div>
