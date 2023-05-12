@@ -1,7 +1,7 @@
 <div align="center">
+  <img width="400px" height="400px" src="./assets/banner.png" alt="banner github" />
   <p>👋 Hello, I'm Nicolas Diotto!
   </p>
-  <img src="./assets/banner.png" alt="banner github" />
   <p>👀 I'm enthusiastic about games and programming, and I love anime!
   </p>
   <p>🌱 Currently, I work as a full stack developer and I'm always striving to become a better version of myself!
