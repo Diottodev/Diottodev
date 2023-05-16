@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400px" height="400px" src="./assets/banner.png" alt="banner github" />
+  <img width="800px" height="400px" src="./assets/banner.png" alt="banner github" />
   <p>👋 Hello, I'm Nicolas Diotto!
   </p>
   <p>👀 I'm enthusiastic about games and programming, and I love anime!
