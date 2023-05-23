@@ -54,7 +54,6 @@ const hardSkills = {
 
 [![Linkedin: Nicolas Diotto](https://img.shields.io/badge/-NicolasDiotto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-diotto-741404218/)](https://www.linkedin.com/in/nicolas-diotto-741404218/)
 [![Gmail Badge](https://img.shields.io/badge/-nicolasdiottodev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasdiottodev@gmail.com)](mailto:nicolasdiottodev@gmail.com)
-[![GitHub Nicolas Diotto]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Diotto6)
 
 <div style="margin-top:20px;">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
