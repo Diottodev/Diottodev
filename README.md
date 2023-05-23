@@ -1,13 +1,49 @@
+  ```js
+import Desenvolvedor from 'DiottoDev';
+
+ const sobreMim = {
+    nome: 'Nicolas Diotto',
+    area: 'Desenvolvimento web full stack',
+    trabalho: 'Desenvolvedor full stack at Bertic',
+  };
+
+const hardSkills = {
+    linguagens: ['Javascript - Typescript', 'Python', 'HTML', 'CSS'],
+    frontEnd: [
+      'ReactJs',
+      'NextJs',
+      'Customização/criação de componentes responsivos',
+      'Figma',
+      'Redux',
+      'Integrações com API',
+      'Jest',
+    ],
+    backEnd: [
+      'NodeJs',
+      'NestJs',
+      ' Rest',
+      'Graphql',
+      'POO',
+      'MVC',
+      'Jest',
+      'Typescript',
+    ],
+  }
+  
+  const softSkills = [
+    'Comunicação',
+    'Colaboração',
+    'Resolução de problemas',
+    'Flexibilidade e adaptabilidade',
+    'Pensamento crítico',
+    'Orientação para o cliente',
+    'Gerenciamento de tempo',
+    'Curiosidade e vontade de aprender',
+  ];
+```
+
 <div align="center">
-  <img width="800px" height="400px" src="./assets/banner.png" alt="banner github" />
-  <p>👋 Hello, I'm Nicolas Diotto!
-  </p>
-  <p>👀 I'm enthusiastic about games and programming, and I love anime!
-  </p>
-  <p>🌱 Currently, I work as a full stack developer and I'm always striving to become a better version of myself!
-  </p>
-  <a href="https://github.com/Diotto6">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Diotto6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true](https://github.com/Diotto6/Diotto6/blob/main/Screenshot_2.png)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diotto6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diotto6&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block">
