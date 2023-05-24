@@ -2,7 +2,7 @@
   ```js
 import Desenvolvedor from 'DiottoDev';
 
- const sobreMim = {
+let sobreMim = {
     nome: 'Nicolas Diotto',
     area: 'Desenvolvimento web full stack',
     trabalho: 'Desenvolvedor full stack at Bertic',
@@ -12,7 +12,7 @@ import Desenvolvedor from 'DiottoDev';
     gostos: "Gosto de gatos, animes, jogos online e o mundo geek"
   };
 
-const hardSkills = {
+let hardSkills = {
     linguagens: ['Javascript - Typescript', 'Python', 'HTML', 'CSS'],
     frontEnd: [
       'ReactJs',
@@ -35,7 +35,7 @@ const hardSkills = {
     ],
   }
   
-  const softSkills = [
+  let softSkills = [
     'Comunicação',
     'Colaboração',
     'Resolução de problemas',
@@ -45,6 +45,15 @@ const hardSkills = {
     'Gerenciamento de tempo',
     'Curiosidade e vontade de aprender',
   ];
+  
+  
+  function desenvolvedorFullStack() {
+  const dev = sobreMim + hardSkills + softSkills
+  
+  return dev
+  }
+  
+  desenvolvedorFullStack()
 ```
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diotto6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
