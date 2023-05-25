@@ -48,7 +48,9 @@ let hardSkills = {
   
   
   function desenvolvedorFullStack() {
-  const dev = sobreMim + hardSkills + softSkills
+    const hardsSkills = Object.values(hardSkills)
+    const sobre = Object.values(sobreMim)
+    const dev =  hardsSkills + sobre + softSkills 
   
   return dev
   }
