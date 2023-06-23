@@ -26,7 +26,7 @@ let hardSkills = {
     backEnd: [
       'NodeJs',
       'NestJs',
-      ' Rest',
+      'RestAPIs',
       'Graphql',
       'POO',
       'MVC',
