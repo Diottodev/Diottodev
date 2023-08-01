@@ -34,28 +34,6 @@ let hardSkills = {
       'Typescript',
     ],
   }
-  
-  let softSkills = [
-    'Comunicação',
-    'Colaboração',
-    'Resolução de problemas',
-    'Flexibilidade e adaptabilidade',
-    'Pensamento crítico',
-    'Orientação para o cliente',
-    'Gerenciamento de tempo',
-    'Curiosidade e vontade de aprender',
-  ];
-  
-  
-  function desenvolvedorFullStack() {
-    const hardsSkills = Object.values(hardSkills)
-    const sobre = Object.values(sobreMim)
-    const dev =  hardsSkills + sobre + softSkills 
-  
-  return dev
-  }
-  
-  desenvolvedorFullStack()
 ```
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diotto6&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
