@@ -4,12 +4,10 @@ import Desenvolvedor from 'DiottoDev';
 
 let sobreMim = {
     nome: 'Nicolas Diotto',
-    area: 'Desenvolvimento web full stack',
-    trabalho: 'Desenvolvedor full stack at Bertic',
     sobre: 'Eai!! Durante a pandemia de 2020, troquei a barbearia pelo desenvolvimento full stack.
     Possuo experiência com ReactJs, NextJs, Typescript, Redux entre outras no front-end,
     em NodeJs, REST e GraphQL, etc... no back-end. 
-    Atualmente atuando como Desenvolvedor full stack ✨👨‍💻'
+    Atualmente atuando como Desenvolvedor full stack at Bertic✨👨‍💻'
   };
 
 ```
