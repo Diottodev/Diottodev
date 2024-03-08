@@ -1,15 +1,14 @@
  
   ```js
-import Desenvolvedor from 'DiottoDev';
+import Developer from 'DiottoDev';
 
-let sobreMim = {
-    nome: 'Nicolas Diotto',
-    sobre: 'Eai!! Durante a pandemia de 2020, troquei a barbearia pelo desenvolvimento full stack.
-    Possuo experiência com ReactJs, NextJs, Typescript, Redux entre outras no front-end,
-    em NodeJs, REST e GraphQL, etc... no back-end. 
-    Atualmente atuando como Desenvolvedor full stack at Bertic✨👨‍💻'
-  };
-
+const aboutMe = {
+     name: 'Nicolas Diotto',
+     about: 'Hey!! I'm a full stack developer.
+     I have experience with ReactJs, NextJs, Typescript, Redux among others on the front-end,
+     in NodeJs, REST and GraphQL, etc... on the backend.
+     Currently working as a Full Stack Developer at Bertic✨👨‍💻'
+   };
 ```
 <h3> Contact-me </h3>
 
