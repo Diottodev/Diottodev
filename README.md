@@ -3,7 +3,7 @@
 import Developer from 'DiottoDev';
 
 const aboutMe = {
-     name: "Nicolas Diotto",
+     name: "Mash Burnedead",
      about: "Hey!! I'm a full stack developer.
      I have experience with ReactJs, NextJs, Typescript, Redux among others on the front-end,
      in NodeJs, REST and GraphQL, etc... on the backend.
