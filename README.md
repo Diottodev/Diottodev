@@ -1,15 +1,27 @@
  
-  ```js
-import Developer from 'DiottoDev';
+# Olá, eu sou Nicolas Diotto 👋
 
-const aboutMe = {
-     name: "Nicolas Diotto",
-     about: "Hey!! I'm Dev. Currently working as a Full Stack Developer at Bertic✨👨‍💻"
-   };
-```
-<h3> Contact-me </h3>
+Sou desenvolvedor de software full stack. Tenho experiência sólida em desenvolvimento web, atuando em projetos de diferentes segmentos e tamanhos.
 
-[![Linkedin: Nicolas Diotto](https://img.shields.io/badge/-NicolasDiotto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-diotto-741404218/)](https://www.linkedin.com/in/nicolas-diotto-741404218/)
-[![Gmail Badge](https://img.shields.io/badge/-nicodiottodev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicodiottodev@gmail.com)](mailto:nicodiottodev@gmail.com)
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
- </div>
+## 🚀 Sobre mim
+
+- 💻 Desenvolvedor Full Stack com foco em Node.js, TypeScript, React e Python
+- 🏢 Experiência em empresas de tecnologia, consultorias e startups
+- 🛠️ Forte atuação em arquitetura de sistemas, APIs REST, microsserviços e integrações
+- 📈 Interesse em DevOps, Cloud Computing (AWS, Azure) e boas práticas de engenharia de software
+- 🤝 Gosto de compartilhar conhecimento, colaborar em equipe e aprender coisas novas
+
+## 🧰 Principais Tecnologias
+
+- **Linguagens:** JavaScript, TypeScript, Python, SQL, Java
+- **Frameworks:** Node.js, React, Next.js, Express, NestJs
+- **Banco de Dados:** PostgreSQL, MongoDB, MySQL
+- **DevOps:** Docker, CI/CD, AWS, Azure
+- **Ferramentas:** Git, GitHub Actions, Jira, Trello
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/diottodev/)
+- Email: diottodev@gmail.com
+
+
