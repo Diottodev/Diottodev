@@ -22,6 +22,6 @@ Sou desenvolvedor de software full stack. Tenho experiência sólida em desenvol
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/diottodev/)
-- Email: diottodev@gmail.com
+- Email: nicodiottodev@gmail.com
 
 
