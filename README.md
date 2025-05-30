@@ -5,7 +5,7 @@ Sou desenvolvedor de software full stack. Tenho experiência sólida em desenvol
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor Full Stack com foco em Node.js, TypeScript, React e Python
+- 💻 Desenvolvedor Full Stack com foco em Node.js, TypeScript, NextJs e NodeJs
 - 🏢 Experiência em empresas de tecnologia, consultorias e startups
 - 🛠️ Forte atuação em arquitetura de sistemas, APIs REST, microsserviços e integrações
 - 📈 Interesse em DevOps, Cloud Computing (AWS, Azure) e boas práticas de engenharia de software
