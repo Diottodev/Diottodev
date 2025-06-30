@@ -1,7 +1,7 @@
  
 # Olá, eu sou Nicolas Diotto 👋
 
-Sou desenvolvedor de software full stack. Tenho experiência sólida em desenvolvimento web, atuando em projetos de diferentes segmentos e tamanhos.
+Sou engenheiro de software. Tenho experiência sólida em projetos web de diferentes segmentos e tamanhos.
 
 ## 🚀 Sobre mim
 
@@ -13,7 +13,7 @@ Sou desenvolvedor de software full stack. Tenho experiência sólida em desenvol
 
 ## 🧰 Principais Tecnologias
 
-- **Linguagens:** JavaScript, TypeScript, Python, SQL, Java
+- **Linguagens:** JavaScript, TypeScript, Python, SQL, Java, Rust
 - **Frameworks:** Node.js, React, Next.js, Express, NestJs
 - **Banco de Dados:** PostgreSQL, MongoDB, MySQL
 - **DevOps:** Docker, CI/CD, AWS, Azure
