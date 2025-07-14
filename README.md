@@ -8,7 +8,7 @@ Sou engenheiro de software. Tenho experiência sólida em projetos web de difere
 - 💻 Desenvolvedor Full Stack com foco em Node.js, TypeScript, NextJs e NodeJs
 - 🏢 Experiência em empresas de tecnologia, consultorias e startups
 - 🛠️ Forte atuação em arquitetura de sistemas, APIs REST, microsserviços e integrações
-- 📈 Interesse em DevOps, Cloud Computing (AWS, Azure) e boas práticas de engenharia de software
+- 📈 DevOps, Cloud Computing (AWS, Azure) e boas práticas de engenharia de software
 - 🤝 Gosto de compartilhar conhecimento, colaborar em equipe e aprender coisas novas
 
 ## 🧰 Principais Tecnologias
