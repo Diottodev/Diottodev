@@ -14,7 +14,7 @@ Sou engenheiro de software. Tenho experiência sólida em projetos web de difere
 ## 🧰 Principais Tecnologias
 
 - **Linguagens:** JavaScript, TypeScript, Python, SQL, Java, Rust
-- **Frameworks:** Node.js, React, Next.js, Fastify, Express, NestJs. Svelte
+- **Frameworks:** Node.js, React, Next.js, Fastify, Express, NestJs, Svelte
 - **Banco de Dados:** PostgreSQL, MongoDB, MySQL
 - **DevOps:** Docker, CI/CD, AWS, Azure
 - **Ferramentas:** Git, GitHub Actions, Jira, Trello
