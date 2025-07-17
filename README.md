@@ -16,7 +16,7 @@ Sou engenheiro de software. Tenho experiência sólida em projetos web de difere
 - **Linguagens:** JavaScript, TypeScript, Python, SQL, Java, Rust
 - **Frameworks:** Node.js, React, Next.js, Fastify, Express, NestJs, Svelte
 - **Banco de Dados:** PostgreSQL, MongoDB, MySQL
-- **DevOps:** Docker, CI/CD, AWS, Azure
+- **DevOps:** Docker, CI/CD, AWS, Nginx
 - **Ferramentas:** Git, GitHub Actions, Jira, Trello
 
 <p align="left">
